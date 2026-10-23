@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Company-of-Heroes-2-Save-Editor` · Updated: 2026-10-07
+`Company-of-Heroes-2-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `company-of-heroes-2` `save-editor` `rts` `ww2` `relic`
